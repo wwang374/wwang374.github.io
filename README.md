@@ -1,4 +1,4 @@
-| [**About me**](https://wwang374.github.io) | [**Research**] | **Teaching** |
+| [**About me**](https://wwang374.github.io) | **Research** | **Teaching** |
  
 # Weitong Wang
 

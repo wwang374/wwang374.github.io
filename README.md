@@ -2,6 +2,6 @@
  
 # Weitong Wang
 
-I am currently a graduate student at University of California at Berekeley, advised by Prof. Melanie Wood. My main interest is number theory, in particular arithmetic statistics. You can reach me by email: wwang at math.berkeley.edu.
+I am currently a postdoc at Shing-Tung Yau Center of Southeast University in China, advised by Prof. Yi Li. My main interest is number theory, in particular arithmetic statistics. You can reach me by email: weitongwang2606@foxmail.com.
 
 Here is my [CV](https://wwang374.github.io/cv_WWang.pdf).

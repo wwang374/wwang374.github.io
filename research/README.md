@@ -4,7 +4,7 @@ Here is the list of publications and preprints:
 
 1. Distribution of the bad part of the class group, *arXiv:2211.10111*, [arxiv preprint](https://arxiv.org/abs/2211.10111).
 
-Abstract: The Cohen-Lenstra-Martinet Heuristics gives a prediction of the distribution of ClK[p∞] whne K runs over Γ-fields and p∤|Γ|. In this paper, we prove several results on the distribution of ideal class groups for some p||Γ|, and show that the behaviour is qualitatively different than what is predicted by the heuristics when p∤|Γ|.We do this by using genus theory and the invariant part of the class group to investigate the algebraic structure of the class group. For general number fields, our result is conditional on a natural conjecture on counting fields. For abelian or D4-fields, our result is unconditional.
+Abstract: The Cohen-Lenstra-Martinet Heuristics gives a prediction of the distribution of ClK[p∞] whne K runs over Γ-fields and `p∤|Γ|`. In this paper, we prove several results on the distribution of ideal class groups for some `p||Γ|`, and show that the behaviour is qualitatively different than what is predicted by the heuristics when `p∤|Γ|`.We do this by using genus theory and the invariant part of the class group to investigate the algebraic structure of the class group. For general number fields, our result is conditional on a natural conjecture on counting fields. For abelian or D4-fields, our result is unconditional.
 
 2. Moments and interpretations of the Cohen-Lenstra-Martinet heuristics, with Melanie Wood, *Commentarii Mathematici Helvetici*, 96(2):339–387, 2021, [arxiv preprint](https://arxiv.org/abs/1907.11201).
 
